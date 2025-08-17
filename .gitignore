@@ -1,0 +1,17 @@
+﻿# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# Publish output
+*.Publish.xml
